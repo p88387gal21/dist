@@ -1,0 +1,1066 @@
+1               DISPONIBILIDADES                                  01NN      
+11              Caixa                                             02SNN     
+111             Caixa A                                           03SNN     
+112             Caixa B                                           03NN      
+113             Caixa Transferência                               03SN      
+119             Transferências de caixa                           03NN      
+12              Depósitos á ordem                                 02NNN     
+1201            C.G.D. - Conta Ordem                              04SNN     
+1202            C.G.D. - Conta Centro Emprego                     04SNN     
+13              Depósitos a prazo                                 02NN      
+14              Outros depósitos bancarios                        02NNN     
+1401            C.G.D. - Caixa Geste                              04NNN     
+2               TERCEIROS                                         01NN      
+21              Clientes                                          02NN      
+211             Clientes C/C                                      03SNN     
+212             Clientes - Títulos a receber                      03NN      
+2121            Impostos directos                                 04SN      
+2122            Impostos indirectos                               04SN      
+2123            Taxas                                             04SN      
+213             Utentes, c/c                                      03NN      
+217             Clientes e utentes c/cauções                      03NN      
+2171            Clientes                                          04NN      
+21711           Reforço de caução                                 05SNS     
+2172            Utentes                                           04NN      
+21721           Reforço de caução                                 05SN      
+218             Clientes de cobrança duvidosa                     03NN      
+2181            Cobranças em atraso                               04SN      
+2182            Cobranças em litígio                              04SN      
+219             Adiantamentos de clientes                         03NN      
+22              Fornecedores                                      02NN      
+221             Fornecedores C/C                                  03SNN     
+222             Fornecedores - Títulos a pagar                    03SNN     
+228             Fornecedores - Facturas em recepcao conferência   03SNN     
+229             Adiantamentos a fornecedores                      03SNN     
+23              Empréstimos obtidos                               02NN      
+231             Empréstimos bancários                             03NN      
+2311            De curto prazo                                    04NN      
+23111           Empréstimos bancários                             05SN      
+2312            De médio e longo prazo                            04NN      
+23121           Empréstimos bancários                             05SN      
+23123           Outros empréstimos obtidos                        05SN      
+232             Empréstimos por obrigações                        03NN      
+2321            Convertíveis                                      04NN      
+2322            Nao convertíveis                                  04NN      
+233             Empréstimos por títulos de participaçäo           03NN      
+239             Outros empréstimos obtidos                        03NN      
+24              Estado e outros entes publicos                    02NNN     
+241             Imposto sobre o rendimento                        03NN      
+242             Retençäo de impostos sobre rendimentos            03NN      
+2421            Trabalho dependente                               04NNN     
+24211           I.R.S.                                            05SNS     
+2422            Trabalho independente                             04NNN     
+24221           I.R.S. (Empresarial)                              05SNS     
+2423            Capitais                                          04NN      
+2424            Prediais                                          04NN      
+2429            Sobre outros rendimentos                          04NN      
+243             Imposto sobre o valor acrescentado (IVA)          03NN      
+2431            IVA - Suportado                                   04NN      
+24311           Existências                                       05NN      
+243111          IVA - 5%                                          06SN      
+243112          IVA - 12%                                         06SN      
+243113          IVA - 17%                                         06SN      
+243116          Isentos                                           06SN      
+24312           Imobilizado                                       05NN      
+243121          IVA - 5%                                          06SN      
+243122          IVA - 12%                                         06SN      
+243123          IVA - 17%                                         06SN      
+243126          Isentos                                           06SN      
+24313           Outros bens e serviços                            05NN      
+243131          IVA - 5%                                          06SN      
+243132          IVA - 12%                                         06SN      
+243133          IVA - 17%                                         06SN      
+243136          Isentos                                           06SN      
+2432            IVA - Dedutível                                   04NN      
+24321           Existências                                       05NN      
+243211          IVA - 5%                                          06SN      
+243212          IVA - 12%                                         06SN      
+243213          IVA - 17%                                         06SN      
+243216          Isentos                                           06SN      
+24322           Imobilizado                                       05NN      
+243221          IVA - 5%                                          06SN      
+243222          IVA - 12%                                         06SN      
+243223          IVA - 17%                                         06SN      
+243226          Isentos                                           06SN      
+24323           Outros bens e serviços                            05NN      
+243231          IVA - 5%                                          06SN      
+243232          IVA - 12%                                         06SN      
+243233          IVA - 17%                                         06SN      
+243234          Gasoleo - Dedução 50%                             06SN      
+243236          Isentos                                           06SN      
+2433            IVA - Liquidado                                   04NN      
+24331           Operações gerais                                  05NN      
+243311          I.V.A. - 5%                                       06SN      
+243312          I.V.A. - 12%                                      06SN      
+243313          I.V.A. - 17%                                      06SN      
+243315          I.V.A. - 30%                                      06SN      
+24332           Autoconsumos e operações gratuitas                05NN      
+2434            IVA - Regularizações                              04NN      
+24341           Mensais (ou trimestrais) a favor da empresa       05NN      
+243411          I.V.A. - 5%                                       06SN      
+243412          I.V.A. - 12%                                      06SN      
+243413          I.V.A. - 17%                                      06SN      
+243415          I.V.A. - 30%                                      06SN      
+24342           Mensais (ou trimestrais) a favor do estado        05NN      
+243421          I.V.A. - 5%                                       06SN      
+243422          I.V.A. - 12%                                      06SN      
+243423          I.V.A. - 17%                                      06SN      
+243425          I.V.A. - 30%                                      06SN      
+24343           Anuais por calculo do  pro rata  definitivo       05NN      
+24344           Anuais por variações dos  pro rata  definitivos   05NN      
+24345           Outras regularizações anuais                      05NN      
+2435            IVA - Apuramento                                  04NN      
+24351           IVA - 5%                                          05SN      
+24352           IVA - 12%                                         05SN      
+24353           IVA - 17%                                         05SN      
+24355           IVA - 30%                                         05SN      
+2436            IVA - A Pagar                                     04SNN     
+24361           IVA - 5%                                          05SN      
+24362           IVA - 12%                                         05SN      
+24363           IVA - 17%                                         05SN      
+24365           IVA - 30%                                         05SN      
+2437            IVA - A Recuperar                                 04NN      
+24371           IVA - 5%                                          05SN      
+24372           IVA - 12%                                         05SN      
+24373           IVA - 17%                                         05SN      
+24375           IVA - 30%                                         05SN      
+2438            IVA - Reembolsos pedidos                          04NN      
+2439            IVA - Liquidações oficiosas                       04NN      
+244             Restantes impostos                                03NN      
+2441            Outros                                            04NN      
+24411           Imposto de selo de licenças                       05SNS     
+24412           Imposto de selo de verba                          05SNS     
+24413           Imposto selo verba (instalaçao máq. automáticas)  05SNS     
+24414           Imposto selo verba (outras licenças)              05SNS     
+24415           Imposto selo verba (escrituras)                   05SNS     
+24416           Imposto selo verba (cartazes, anúncios)           05SNS     
+24417           Imposto selo verba  -  12.5  T.G.I.S.             05SNS     
+24418           Imposto selo verba  -  12.5  T.G.I.S.             05SNS     
+245             Contribuições para a Segurança Social             03NNN     
+2451            ADSE                                              04SNS     
+2452            Caixa Geral de Aposentaçoes                       04SNS     
+2453            Segurança Social - Regime Geral                   04NNN     
+24531           Da entidade empregadora                           05SNS     
+24532           Dos trabalhadores                                 05SNS     
+24533           Outras                                            05SNS     
+246             Tributos das autarquias locais                    03NN      
+249             Outras tributações                                03NN      
+2491            Cobranças p/terceiros                             04NN      
+24911           Descontos s/vencimentos                           05NNN     
+24912           Outros                                            05NNN     
+25              Devedores e Credores pela execução do Orçamento   02NNN     
+251             Devedores pela execução do Orçamento              03NNN     
+25101           Impostos directos                                 05NN      
+2510102         Outros                                            07NN      
+251010202       Imposto municipal sobre imóveis                   09SN      
+25102           Impostos Indirectos                               05NN      
+25104           Taxas Multas e Outras Penalidades                 05NN      
+2510401         Taxas                                             07NN      
+251040123       Taxas especificas das autarquias locais           09NN      
+25104012301     Mercados e feiras                                 11SN      
+25104012304     Canideos                                          11SN      
+25104012305     Caça, uso e porte de arma                         11SN      
+25104012399     Outras (declarações, certidoes etc)               11SN      
+25105           Rendimentos de Propriedade                        05NN      
+2510502         Juros-Sociedades financeiras                      07NN      
+251050201       Bancos e outras inst. financeiras                 09SN      
+2510510         Rendas                                            07NN      
+251051001       Rendas terrenos                                   09SN      
+251051003       Rendas habitações                                 09SN      
+251051004       Rendas edifícios                                  09SN      
+251051099       Outros                                            09SN      
+25106           Transferências Correntes                          05NN      
+2510601         Sociedades e quase-sociedades nao financeiras     07NN      
+251060102       Privadas                                          09SN      
+2510602         Sociedades financeiras                            07NN      
+251060202       Companhias de seguros e fundos de pensoes         09SN      
+2510603         Administraçao central                             07NN      
+251060301       Estado                                            09NN      
+25106030104     Fundo de Financiamento das Freguesias             11SN      
+25106030199     Outras                                            11SN      
+251060307       Fundos e Serviços Autónomos (I.E.F.P)             09SN      
+2510605         Administraçao local                               07NN      
+251060501       Continente - Autarquias                           09SN      
+2510609         Resto do mundo                                    07NN      
+25107           Venda de Bens e Serviços Correntes                05NN      
+2510701         Venda de bens                                     07NN      
+251070199       Outros                                            09SN      
+25107019900     Outras                                            11NN      
+2510702         Serviços                                          07NN      
+251070201       Aluguer de espaços e equipamentos                 09SN      
+251070205       Actividades de saúde                              09SN      
+251070207       Alimentação e alojamento                          09SN      
+251070208       Serv. sociais, rec. cult. e de desporto           09SN      
+251070209       Serviços especificos das autarquias               09NN      
+25107020904     Trabalhos por conta de particulares               11SN      
+25107020905     Cemitérios                                        11SN      
+25107020999     Outros                                            11SN      
+251070301       Habitações                                        09SN      
+251070302       Edificios                                         09SN      
+25108           Outras Receitas Correntes                         05NN      
+2510801         Outras                                            07NN      
+251080199       Outras                                            09NN      
+25108019901     Indem. deter., roubo e extr. bens patrimoniais    11SN      
+25108019902     Indemnizaçoes de estragos provocados por outrem   11SN      
+25108019903     IVA reembolsado                                   11SN      
+25108019999     Diversas                                          11SN      
+25109           Vendas de Bens Investimento                       05NN      
+25110           Transferências de Capital                         05NN      
+251100102       Privadas                                          09SN      
+2511003         Administração central                             07NN      
+251100301       Estado                                            09NN      
+25110030104     Cooperação Técnica e Financeira                   11SN      
+25110030199     Outras                                            11SN      
+2511005         Administração local                               07NN      
+251100501       Continente - Autarquias                           09SN      
+2511009         Resto do mundo                                    07NN      
+25111           Activos Financeiros                               05NN      
+2511105         Administração local                               07NN      
+251110506       Empréstimos a curto prazo                         09SN      
+251110606       Empréstimos a médio e longo prazo                 09SN      
+251110806       Acções e outras participações                     09SN      
+25112           Passivos Financeiros                              05NN      
+2511205         Emprestimos a curto prazo                         07NN      
+251120506       Empréstimos a curto prazo                         09SN      
+2511206         Emprestimos a médio e longo prazos                07NN      
+251120606       Empréstimos médio e longo prazos                  09SN      
+25113           Outras Receitas de Capital                        05NN      
+2511301         Outras                                            07NN      
+251130101       Indemnizações                                     09SN      
+251130199       Outras                                            09SN      
+25115           Reposições Não Abatidas Nos Pagamentos            05NN      
+2511501         Reposições não abatidas nos pagamentos            07NN      
+251150101       Reposições não abatidas nos pagamentos            09SN      
+25116           Saldo da Gerência Anterior                        05NN      
+2511601         Saldo orçamental                                  07NN      
+251160101       Saldo orçamental                                  09SN      
+251160102       Saldo orçamental-consignado                       09SN      
+25117           Operaçoes estra-orçamentais                       05NN      
+2511701         Operaçoes de tesouraria - Receitas do Estado      07SN      
+2511702         Outras operaçoes de tesouraria                    07SN      
+252             Credores pela execução do Orçamento               03NNN     
+25201           Despesas Com Pessoal                              05NN      
+2520101         Remunerações certas e permanentes                 07NN      
+252010101       Rem. membros orgãos autárquicos                   09SN      
+252010104       Pessoal dos quadros-Regime contrato ind. trabalho 09NN      
+25201010401     Pessoal em funçoes                                11SN      
+25201010402     Alteraçoes obrigatorias posicionamento remunerador11SN      
+25201010403     Alteraçoes facultativas posicionamento remunerador11SN      
+252010106       Pessoal contratado a termo                        09NN      
+25201010601     Pessoal em funçoes                                11SN      
+25201010602     Alteraçoes obrigatorias posicionamento remunerador11SN      
+25201010603     Alteraçoes facultativas posicionamento remunerador11SN      
+25201010604     Recrutamento pessoal p/novos postos de trabalho   11SN      
+252010107       Pessoal regime tarefa ou avença                   09SN      
+252010108       Pessoal aguardando aposentação                    09SN      
+252010109       Pessoal em qualquer outra situação                09SN      
+252010110       Gratificações                                     09NN      
+25201011003     Outros                                            11SN      
+252010111       Representação                                     09SN      
+252010112       Suplementos e prémios                             09SN      
+252010113       Subsidio de refeição                              09NN      
+25201011301     Pessoal quadros-regime contrato ind. trabalho     11SN      
+25201011302     Pessoal contratado a termo                        11SN      
+25201011303     Pessoal em qualquer outra situaçao                11SN      
+252010114       Subsidio de férias e de Natal                     09NN      
+25201011401     Pessoal dos quadros-Regime contrato ind. trabalho 11SN      
+25201011402     Pessoal contratado a termo                        11SN      
+25201011403     Pessoal em qualquer outra situação                11SN      
+252010115       Rem. doença e maternidade/ paternidade            09SN      
+2520102         Abonos variáveis ou eventuais                     07NN      
+252010202       Horas extraordinárias                             09SN      
+252010203       Alimentação e alojamento                          09SN      
+252010204       Ajudas de custo                                   09SN      
+252010205       Abono para falhas                                 09SN      
+252010207       Colaboração técnica especializada                 09SN      
+252010210       Subsidio de trabalho nocturno                     09SN      
+252010211       Subsidio de turno                                 09SN      
+252010212       Indemnizaçoes por cessaçao de funçoes             09SN      
+252010213       Outros suplementos e prémios (senhas presença)    09SN      
+252010214       Outros abonos em numerário ou espécie             09SN      
+2520103         Segurança social                                  07NN      
+252010301       Encargos com a saúde                              09SN      
+252010302       Outros encargos com a saude                       09SN      
+252010303       Subsidio familiar a crianças e jovens             09SN      
+252010304       Outras prestações familiares                      09SN      
+252010305       Contribuições p/ a segurança social               09NN      
+25201030501     Assistencia na doença funcionarios publicos-ADSE  11SN      
+25201030502     Segurança social pessoal em regime CTFP           11NN      
+2520103050201   Caixa Geral de Aposentaçoes                       13SN      
+2520103050202   Segurança social -  regime geral                  13SN      
+25201030503     Outros                                            11SN      
+252010306       Acidentes em serviço e doença profissional        09SN      
+252010309       Seguros                                           09NN      
+25201030901     Seguros de acidentes no trabalho                  11SN      
+25201030902     Seguros de saúde                                  11SN      
+252010310       Outras despesas de segurança social               09NN      
+25201031001     Eventualidade maternidade, paternidade e adopçao  11SN      
+25201031099     Outras despesas de segurança social               11SN      
+25202           Aquisição de Bens e Serviços                      05NN      
+2520201         Aquisição de bens                                 07NN      
+252020101       Matérias-primas e subsidiárias                    09SN      
+252020102       Combustíveis e lubrificantes                      09NN      
+25202010201     gasolina                                          11SN      
+25202010202     gasóleo                                           11SN      
+25202010299     Outros                                            11SN      
+252020103       Munições, explosivos e outros artif.              09SN      
+252020104       Limpeza e higiene                                 09SN      
+252020105       Alimentação - refeições confeccionadas            09SN      
+252020106       Alimentação - géneros para confeccionar           09SN      
+252020107       Vestuário e artigos pessoais                      09SN      
+252020108       Material de escritório                            09SN      
+252020110       Produtos vendidos nas farmácias                   09SN      
+252020111       Material de consumo clínico                       09SN      
+252020112       Material de transporte - peças                    09SN      
+252020114       Outro material - peças                            09SN      
+252020115       Prémios, condecorações e ofertas                  09SN      
+252020117       Ferramentas e utensílios                          09SN      
+252020118       Livros e doc. técnica                             09SN      
+252020119       Artigos honoríficos e de decoração                09SN      
+252020120       Material de educação, cult. recreio               09SN      
+252020121       Outros bens                                       09SN      
+2520202         Aquisição de serviços                             07NN      
+252020201       Encargos das instalações                          09SN      
+252020202       Limpeza e higiene                                 09SN      
+252020203       Conservação de bens                               09SN      
+252020204       Locação de edifícios                              09SN      
+252020205       Locação de mat. informática                       09SN      
+252020206       Locação mat. de transporte                        09SN      
+252020208       Locação de outros bens                            09SN      
+252020209       Comunicações                                      09SN      
+252020210       Transportes                                       09SN      
+252020211       Representação dos serviços                        09SN      
+252020212       Seguros                                           09SN      
+252020213       Deslocações e estadas                             09SN      
+252020214       Estudos, pareceres, proj. e consultoria           09SN      
+252020215       Formação                                          09NN      
+252020216       Seminários, exposições, e similares               09NN      
+252020217       Publicidade                                       09SN      
+252020218       Vigilancia e segurança                            09SN      
+252020219       Assistência técnica                               09SN      
+252020220       Outros trabalhos especializados                   09SN      
+252020222       Serviços de saude                                 09SN      
+252020224       Encargos de cobranças de receitas                 09SN      
+252020225       Outros serviços                                   09SN      
+25203           Juros e Outros Encargos                           05NN      
+2520301         Juros da divida pública                           07NN      
+252030103       Bancos e outras instituições                      09SN      
+252030108       Administração pública-Administ. local-Continente  09NN      
+25203010801     empréstimos curto prazo                           11SN      
+25203010802     empréstimos medio e longo prazo                   11SN      
+2520302         Outros encargos correntes da divida pública       07NN      
+2520303         Juros de locação financeira                       07NN      
+2520305         Outros juros                                      07NN      
+252030502       Outros                                            09SN      
+25204           Transferências Correntes                          05NN      
+2520401         Sociedades e quase nao sociedades financeiras     07NN      
+252040102       Privadas                                          09SN      
+2520405         Administração local                               07NN      
+2520407         Instituições sem fins lucrativos                  07NN      
+252040701       Instituições sem fins lucrativos                  09SN      
+2520408         Famílias                                          07NN      
+252040802       Outras                                            09SN      
+25205           Subsidios                                         05NN      
+2520501         Sociedades e quase-sociedades não financeiras     07NN      
+252050101       Públicas                                          09NN      
+252050103       Privadas                                          09SN      
+2520508         Familias                                          07NN      
+252050803       Outras - (Contrato Emprego inserçao)              09SN      
+25206           Outras despesas correntes                         05NN      
+2520602         Diversas                                          07NN      
+252060201       Impostos e taxas                                  09SN      
+252060203       Outras                                            09NN      
+25206020301     Outras restituições                               11SN      
+25206020302     IVA pago                                          11SN      
+25206020304     Serviços bancários                                11SN      
+25206020305     Outras                                            11SN      
+25207           Aquisição de Bens de Capital                      05NN      
+2520701         Investimentos                                     07NN      
+252070101       Terrenos                                          09SN      
+252070103       Edificios                                         09NN      
+25207010301     Instalações de serviços                           11SN      
+25207010302     Instalações desportivas e recreativas             11SN      
+25207010303     Mercados e instalações de fisc. sanitária         11SN      
+25207010304     Creches                                           11SN      
+25207010305     Escolas                                           11SN      
+25207010307     Outros                                            11SN      
+252070104       Construções diversas                              09NN      
+25207010401     Viadutos, arruamentos e obras complementares      11SN      
+25207010405     Parques e jardins                                 11SN      
+25207010406     Instalações desportivas e recreativas             11SN      
+25207010408     Viaçao rural                                      11SN      
+25207010409     Sinalização e trânsito                            11SN      
+25207010412     Cemiterios                                        11SN      
+25207010413     Outras construçoes diversas                       11SN      
+252070106       Material de transporte                            09SN      
+252070107       Equipamento de informática                        09SN      
+252070108       Software informático                              09SN      
+252070109       Equipamento administrativo                        09SN      
+252070110       Equipamento básico                                09SN      
+252070111       Ferramentas e utensílios                          09SN      
+252070115       Outros investimentos                              09SN      
+25210           Passivos Financeiros                              05NN      
+2521005         Empréstimos a curto prazo                         07NN      
+252100508       Administração pública-Administ. local-Continente  09NN      
+25210050801     Empréstimos a curto prazo                         11SN      
+2521006         Empréstimos a médio e longo prazos                07NN      
+252100608       Administração pública-Administ. local-Continente  09NN      
+25210060801     empréstimos medio e longo prazo                   11SN      
+25211           Outras despesas de capital                        05NN      
+2521102         Diversas                                          07NN      
+252110201       Restituiçoes                                      09SN      
+252110299       Outras                                            09SN      
+25217           Operações extra-orçamentais                       05NN      
+2521701         Operações de tesouraria-receitas do Estado        07SN      
+2521702         Outras operações de tesouraria                    07SN      
+253             Empresas associadas                               03NN      
+2531            Empréstimos                                       04NN      
+2532            Adiantamentos por conta de lucros                 04NN      
+2533            Resultados atribuídos                             04NN      
+2534            Lucros disponíveis                                04NN      
+2539            Outras operações                                  04NN      
+254             Empresas participadas                             03NN      
+2541            Empréstimos                                       04NN      
+2542            Adiantamentos por conta de lucros                 04NN      
+2543            Resultados atribuídos                             04NN      
+2544            Lucros disponíveis                                04NN      
+2549            Outras operações                                  04NN      
+255             (Restantes) Accionistas (Sócios)                  03NN      
+2551            Empréstimos                                       04NN      
+2552            Adiantamentos por conta de lucros                 04NN      
+2553            Resultados atribuídos                             04NN      
+2554            Lucros disponíveis                                04NN      
+2559            Outras operações                                  04NN      
+26              Outros devedores e credores                       02NN      
+261             Fornecedores de imobilizado                       03NNN     
+2611            Fornecedores de imobilizado C/C                   04SNN     
+2612            Fornecedores de imobilizado - Títulos a pagar     04SNN     
+2613            Fornecedores de imobilizado - Títulos a pagar     04SNN     
+2619            Adiantamentos a fornecedores de imobilizado       04SNN     
+262             Pessoal                                           03NN      
+2621            Remunerações a pagar membros órgaos autárquicos   04SN      
+2622            Remunerações a pagar ao pessoal                   04SN      
+2623            Adiantamentos aos orgäos autárquicos              04SN      
+2624            Adiantamentos ao pessoal                          04SN      
+2625            Ajudas de Custo                                   04SN      
+2626            Cauções do pessoal                                04SN      
+2628            Outras operações com membros órgaos autárquicos   04SN      
+2629            Outras operações com o pessoal                    04SN      
+263             Sindicatos                                        03SNN     
+2631            STAL                                              04SNS     
+264             Administraçao Autárquica                          03NN      
+2641            Associaçoes de Municípios                         04SN      
+2642            Municípios                                        04SN      
+2643            Serviços municipalizados                          04SN      
+2644            Federações de municípios                          04SN      
+2645            Associações de freguesias                         04SN      
+2646            Freguesias                                        04SN      
+2647            Empresas municipais e intermunicipais             04SN      
+2649            Outras entidades                                  04NN      
+265             Credores por subscrições näo liberadas            03NN      
+266             Obrigacionistas                                   03NN      
+267             Consultores, assessores e intermediários          03NN      
+268             Devedores e credores diversos                     03NNN     
+2681            Diversos                                          04NN      
+268101          A.D.S.E.                                          06SNN     
+2682            Devedores de transferências para autarquias locais04NN      
+26821           Estado                                            05SN      
+26822           Município                                         05SN      
+26823           Fundos comunitários                               05SN      
+2684            Credores de transferências das autarquias locais  04SN      
+2685            Credores - cheques em trânsito                    04SNS     
+2689            Outros                                            04SN      
+269             Adiantamentos por conta de vendas                 03NN      
+2691            Por conta de venda de água                        04SN      
+27              Acréscimos e diferimentos                         02NN      
+271             Acréscimos de proveitos                           03NN      
+2711            Juros a receber                                   04NN      
+2712            Comparticipações a receber                        04SNN     
+2719            Outros acréscimos de proveitos                    04NN      
+272             Custos diferidos                                  03NN      
+2726            Descontos de emissäo de obrigações                04NN      
+2727            Descontos de emissäo de títulos de participaçäo   04NN      
+2728            Diferenças de câmbio desfavoráveis                04NN      
+27281           Relacionadas com o financ. imobilizado em curso   05NN      
+27282           Outras                                            05NN      
+2729            Outros custos diferidos                           04NN      
+273             Acréscimos de custos                              03NN      
+2731            Seguros a liquidar                                04NN      
+2732            Remunerações a liquidar                           04NN      
+2733            Juros a liquidar                                  04NN      
+2739            Outros acréscimos de custos                       04NN      
+274             Proveitos diferidos                               03NN      
+2745            Subsídios para investimentos                      04NN      
+27451           Administrações Públicas                           05NN      
+274511          Orçamento do Estado                               06NN      
+2745111         Cooperação técnica e financeira                   07NN      
+27451111        Fundo geral municipal                             08SN      
+27451112        Fundo de coesão municipal                         08SN      
+27451113        Cooperação técnica e financeira                   08SN      
+27451114        Outras                                            08SN      
+274513          Administração autárquica                          06SN      
+27452           Administrações privadas                           05NN      
+274521          Instituições particulares                         06SN      
+27453           Famílias                                          05NN      
+274531          Famílias                                          06SN      
+27454           Exterior                                          05NN      
+274541          Feder                                             06SN      
+274542          Fundo de coesão                                   06SN      
+27455           Empresas                                          05NN      
+274551          Empresas públicas municipais e intermunicipais    06SN      
+274552          Outras                                            06SN      
+2746            Prémios de emissäo de obrigações                  04NN      
+2747            Prémios de emissäo de títulos de participaçäo     04NN      
+2748            Diferenças de câmbio favoráveis                   04NN      
+27481           Relacionadas com o financ. imobilizado em curso   05NN      
+27482           Outras                                            05NN      
+2749            Outros proveitos diferidos                        04NN      
+28              Provisões para cobranças duvidosas                02NN      
+281             Dívidas de clientes                               03NN      
+288             Outras dívidas de terceiros                       03NN      
+29              Provisões para riscos e encargos                  02NN      
+291             Pensões                                           03NN      
+292             Impostos                                          03NN      
+2921            Processos judiciais em curso                      04SN      
+2922            Acidentes no trabalho e doenças profissionais     04SN      
+2923            Garantias a clientes                              04SN      
+2928            Outros riscos e encargos                          04SN      
+293             Processos judiciais em curso                      03NN      
+294             Acidentes no trabalho e doenças profissionais     03NN      
+295             Garantias a clientes                              03NN      
+298             Outros riscos e encargos                          03NN      
+3               EXISTÊNCIAS                                       01NN      
+31              COMPRAS                                           02NN      
+312             Mercadorias                                       03SNN     
+316             Matérias-primas, subsidiárias e de consumo        03NN      
+3161            Matérias-primas                                   04SN      
+3162            Matérias subsidiárias                             04SN      
+3163            Materiais diversos                                04SN      
+3164            Embalagens de consumo                             04SN      
+317             Devoluções de compras                             03NN      
+318             Descontos e abatimentos em compras                03NN      
+32              MERCADORIAS                                       02NN      
+323             Habitação social                                  03SN      
+33              PRODUTOS ACABADOS E INTERMÉDIOS                   02NN      
+333             Habitação social                                  03SN      
+34              SUBPRODUTOS, DESPERDÍCIOS, RESÍDUOS E REFUGOS     02NN      
+341             Subprodutos                                       03SN      
+348             Desperdícios, resíduos e refugos                  03SN      
+35              PRODUTOS E TRABALHOS EM CURSO                     02NN      
+353             Habitação social                                  03SN      
+36              MATÉRIAS-PRIMAS, SUBSIDIÁRIAS E DE CONSUMO        02NN      
+361             Matérias-primas                                   03SN      
+362             Matérias subsidiárias                             03SN      
+363             Materiais diversos                                03SN      
+364             Embalagens de consumo                             03SN      
+37              ADIANTAMENTOS POR CONTA DE COMPRAS                02NN      
+372             Mercadorias                                       03SN      
+376             Matérias-primas, subsidiárias e de consumo        03SN      
+38              REGULARIZAÇÃO DE EXISTÊNCIAS                      02NN      
+382             Mercadorias                                       03SN      
+383             Produtos acabados e intermédios                   03SN      
+384             Subprodutos, desperdícios, resíduos e refugos     03SN      
+386             Matérias-primas, subsidiárias e de consumo        03SN      
+39              PROVISÕES PARA DEPRECIAÇÃO DE EXISTÊNCIAS         02NN      
+392             Mercadorias                                       03SN      
+393             Produtos acabados e intermédios                   03SN      
+394             Subprodutos, desperdícios, resíduos e refugos     03SN      
+395             Produtos e trabalhos em curso                     03SN      
+396             Matérias-primas, subsidiárias e de consumo        03SN      
+4               IMOBILIZAÇÕES                                     01NN      
+41              INVESTIMENTOS FINANCEIROS                         02NN      
+411             Partes de capital                                 03NN      
+4111            Associações de municípios                         04SN      
+4112            Empresas municipais e intermunicipais             04SN      
+4113            Empresas privadas ou cooperativas                 04SN      
+412             Obrigações e títulos de participação              03NN      
+4121            Empresas municipais e intermunicipais             04SN      
+413             Imóveis em Regime de Concessão Temporária         03NN      
+4131            Terrenos e recursos naturais                      04SN      
+4132            Edifícios e Outras construções                    04NN      
+41321           Edifícios                                         05SN      
+41322           Outras Construções                                05SN      
+414             Investimentos em imóveis                          03NN      
+4141            Terrenos e recursos naturais                      04SN      
+4142            Edifícios e outras construções                    04NN      
+41421           Edifícios                                         05SN      
+41422           Outras construções                                05SN      
+415             Outras aplicações financeiras                     03NN      
+4151            Depósitos em instituições financeiras             04SN      
+4152            Títulos de dívida pública                         04SN      
+4153            Outros títulos                                    04SN      
+42              IMOBILIZAÇÕES CORPÓREAS                           02NN      
+421             Terrenos e recursos naturais                      03SN      
+422             Edifícios e outras construções                    03NN      
+4221            Edifícios                                         04SN      
+4222            Outras construções                                04SN      
+423             Equipamento básico                                03SN      
+424             Equipamento de transporte                         03SN      
+425             Ferramentas e utensílios                          03SN      
+426             Equipamento administrativo                        03SN      
+427             Taras e vasilhame                                 03NN      
+429             Outras imobilizações corpóreas                    03SN      
+43              IMOBILIZAÇÕES INCORPÓREAS                         02NN      
+431             Despesas de instalação                            03SNN     
+432             Despesas de investigação e de desenvolvimento     03SNN     
+433             Propriedade industrial e outros direitos          03SNN     
+434             Software                                          03SN      
+44              IMOBILIZAÇÕES EM CURSO                            02NN      
+441             Imobilizações em curso investimentos financeiros  03SN      
+442             Imobilizações em curso imobilizações corpóreas    03SSN     
+443             Imobilizações em curso imobilizações incorpóreas  03SNN     
+445             Imobilizações em curso de bens domínio público    03SN      
+446             Adiantamentos por conta de bens domínio público   03NN      
+447             Adiantamentos por conta investimentos financeiros 03NN      
+448             Adiantamentos por conta imobilizações corpóreas   03SN      
+449             Adiantamentos por conta imobilizações incorpóreas 03NN      
+45              BENS DE DOMÍNIO PÚBLICO                           02NN      
+451             Terrenos e recursos naturais                      03SN      
+452             Edifícios                                         03SN      
+453             Outras construções e infraestruturas              03SN      
+455             Bens do património histórico, artístico e cultural03SN      
+459             Outros bens de domínio público                    03SN      
+48              AMORTIZAÇÕES ACUMULADAS                           02NN      
+481             De investimentos em imóveis                       03NN      
+4811            Terrenos e recursos natuaris                      04SN      
+4812            Edifícios e outras construções                    04NN      
+48121           Edifícios                                         05SN      
+48122           Outras construções                                05SN      
+482             De imobilizações corpóreas                        03NN      
+4821            Terrenos e recursos natuaris                      04SN      
+4822            Edifícios e outras construções                    04NN      
+48221           Edifícios                                         05SN      
+48222           Outras construções                                05SN      
+4823            Equipamento básico                                04SN      
+4824            Equipamento de transporte                         04SN      
+4825            Ferramentas e utensílios                          04SN      
+4826            Equipamento administrativo                        04SN      
+4827            Taras e vasilhame                                 04SN      
+4829            Outras imobilizações corpóreas                    04SN      
+483             De imobilizações incorpóreas                      03NN      
+4831            Despesas de instalação                            04SN      
+4832            Despesas de investigação e de desenvolvimento     04SN      
+4833            Propriedade industrial e outros direitos          04SN      
+485             De bens de domínio público                        03NN      
+4851            Terrenos e recursos naturais                      04SN      
+4852            Edifícios                                         04SN      
+4853            Outras construções e infraestruturas              04SN      
+4855            Bens do património histórico, artístico e cultural04SN      
+4859            Outros bens de domínio público                    04SN      
+49              PROVISÕES PARA INVESTIMENTOS FINANCEIROS          02NN      
+491             Partes de capital                                 03SN      
+492             Obrigações e títulos de participação              03SN      
+493                                                               03SN      
+495             Outras aplicações financeiras                     03SN      
+5               FUNDO PATRIMONIAL                                 01NN      
+51              PATRIMÓNIO                                        02NN      
+55              AJUSTAMENTOS DE PARTES DE CAPITAL EM EMPRESAS     02NN      
+56              RESERVAS DE REAVALIAÇÃO                           02NN      
+57              RESERVAS                                          02NN      
+571             Reservas legais                                   03SN      
+572             Reservas estatutárias                             03SN      
+573             Reservas contratuais                              03SN      
+574             Reservas livres                                   03SN      
+575             Subsídios                                         03SN      
+576             Doações                                           03SN      
+577             Reservas decorrentes da transferência de activos  03SN      
+58                                                                02NN      
+59              RESULTADOS TRANSITADOS                            02NN      
+6               CUSTOS E PERDAS                                   01NN      
+61              CUSTOS DAS MERCAD. VENDIDAS E DAS MAT. CONSUMIDAS 02NN      
+612             Mercadorias                                       03NN      
+6123            Habitação Social                                  04SN      
+616             Matérias-primas, subsidiárias e de consumo        03NN      
+6161            Matérias-primas                                   04SN      
+6162            Matérias subsidiárias                             04SN      
+6163            Materiais diversos                                04SN      
+6164            Embalagens de consumo                             04SN      
+619                                                               03NN      
+62              FORNECIMENTOS E SERVIÇOS EXTERNOS                 02NN      
+621             Subcontratos                                      03SN      
+6211            Transportes escolares                             04SN      
+6212            Limpeza e Higiene                                 04SN      
+6213            Assistência Técnica                               04SN      
+6214            Espetáculos e afina                               04SN      
+6219            OUTROS............                                04SN      
+622             Fornecimentos e serviços                          03NN      
+62211           Electricidade                                     05SN      
+62212           Combustíveis                                      05NN      
+622121          Gasóleo                                           06SN      
+622122          Gasolina                                          06SN      
+622123          Outros                                            06SN      
+62213           Água                                              05SN      
+62214           Outros fluídos                                    05SN      
+62215           Ferramentas e utensílios de desgaste rápido       05SN      
+62216           Livros e documentação técnica                     05SN      
+62217           Material de escritório                            05SN      
+62218           Artigos para oferta                               05SN      
+62219           Rendas e alugueres                                05SN      
+62220           Vestuário e Calçado                               05SN      
+62221           Despesas de representação                         05SN      
+62222           Comunicação                                       05SN      
+62223           Seguros                                           05SN      
+62224           "Royalties"                                       05SN      
+62225           Transportes de mercadorias                        05SN      
+62226           Transportes de pessoal                            05SN      
+62227           Deslocações e estadas                             05SN      
+62228           Comissões                                         05SN      
+62229           Honorários                                        05SN      
+62231           Contencioso e notariado                           05SN      
+62232           Conservação e reparação                           05SN      
+62233           Publicidade e propaganda                          05SN      
+62234           Limpeza, higiene e conforto                       05SN      
+62235           Vigilância e segurança                            05SN      
+62236           Trabalhos especializados                          05SN      
+62290           Encargos de cobrança                              05SN      
+62298           Outros fornecimentos e serviços                   05SN      
+62299                                                             05SN      
+629                                                               03NN      
+63              TRANSF. E SUBSÍD. CORRENT. CONCED. PREST. SOCIAIS 02NN      
+631             Transferências correntes concedidas               03SN      
+632             Subsídios correntes concedidos                    03SN      
+633             Prestações sociais                                03SN      
+638             Outras                                            03SN      
+639                                                               03SN      
+64              CUSTOS COM O PESSOAL                              02NN      
+641             Remunerações dos membros dos órgãos autárquicos   03SN      
+642             Remunerações do pessoal                           03NN      
+6421            Remunerações base do pessoal                      04NN      
+64211           Pessoal dos quadros                               05SN      
+64212           Pessoal em qualquer outra situação                05NN      
+642121          Pessoal com contrato a termo certo                06SN      
+642122          Outras situações                                  06SN      
+6422            Suplementos de remunerações                       04NN      
+64221           Trabalho extraordinário                           05SN      
+64222           Trabalho em regime de turnos                      05SN      
+64223           Abono para falhas                                 05SN      
+64224           Subsídio de refeição                              05SN      
+64225           Ajudas de custo                                   05SN      
+64226           Vestuário e artigos pessoais                      05SN      
+64227           Alimentação e alojamento                          05SN      
+64228           Outros suplementos                                05SN      
+6423            Prestações sociais directas                       04NN      
+64231           Subsídio familiar a crianças e jovens             05SN      
+64232           Outras prestações familiares                      05SN      
+64233           Outras prestações de acção social                 05SN      
+643             Pensões                                           03SN      
+645             Encargos sobre remunerações                       03NN      
+6451            Assistência na doença dos funcionários públicos   04SN      
+6452            Segurança social dos funcionários públicos        04SN      
+6453            Segurança social - Regime geral                   04SN      
+6458            Outros encargos sobre remunerações                04SN      
+646             Seguros de acidentes no trabalho e doenças profis.03SN      
+647             Encargos sociais voluntários                      03SN      
+648             Outros custos com o pessoal                       03NN      
+6481            Despesas de saúde                                 04SN      
+6482            Seguros de saúde                                  04SN      
+6483            Formaçao profissional                             04SN      
+649                                                               03SN      
+65              OUTROS CUSTOS E PERDAS OPERACIONAIS               02NN      
+651             Impostos e taxas                                  03NN      
+6511            Imposto sobre o rendimento                        04SN      
+6519            Impostos e Taxas Diversas                         04SN      
+652             Quotizações                                       03SN      
+653             Despesas com propriedade industrial/Intelectual   03SN      
+658             Outros custos e perdas operacionais               03SN      
+659                                                               03SN      
+66              AMORTIZAÇÕES DO EXERCÍCIO                         02NN      
+662             Imobilizações corpóreas                           03NN      
+6621            Terrenos e recursos naturais                      04SN      
+6622            Edifícios e outras construções                    04SN      
+6623            Equipamento básico                                04SN      
+6624            Equipamento de transporte                         04SN      
+6625            Ferramentas e utensílios                          04SN      
+6626            Equipamento administrativo                        04SN      
+6627            Taras e vasilhame                                 04SN      
+6628            Outras imobilizações corpóreas                    04SN      
+663             Imobilizações incorpóreas                         03NN      
+6631            Despesas de instalação                            04SN      
+6632            Despesas de investigação e desenvolvimento        04SN      
+6633            Propriedade industrial e outros direitos          04SN      
+6639                                                              04SN      
+665             Bens de domínio público                           03NN      
+6651            Terrenos e recursos naturais                      04SN      
+6652            Edifícios                                         04SN      
+6653            Outras construções e infraestruturas              04SN      
+6655            Bens do património histórico, artístico e cultural04SN      
+6659            Outros bens de domínio público                    04SN      
+669                                                               03NN      
+67              PROVISÕES DO EXERCÍCIO                            02NN      
+671             Para cobranças duvidosas                          03SN      
+672             Para riscos e encargos                            03NN      
+6721            Pensões                                           04SN      
+6723            Processos judiciais em curso                      04SN      
+6724            Acidentes de trabalho e doenças profissionais     04SN      
+6729                                                              04SN      
+673             Para depreciação de existências                   03NN      
+6732            Mercadorias                                       04SN      
+6733            Produtos acabados e intermédios                   04SN      
+6734            Subprodutos, desperdícios, resíduos e refugos     04SN      
+6735            Produtos e trabalhos em curso                     04SN      
+6736            Matérias-primas, subsidiárias e de consumo        04SN      
+6739                                                              04SN      
+679                                                               03NN      
+68              CUSTOS E PERDAS FINANCEIROS                       02NN      
+681             Juros suportados                                  03NN      
+6811            Em moeda nacional                                 04NN      
+68111           De curto prazo                                    05SN      
+68112           De médio e longo prazo                            05NN      
+681121          Empréstimos bancários                             06SN      
+681122          Empréstimos por obrigações                        06SN      
+681123          Outros empréstimos obtidos                        06SN      
+68113           Outros Juros                                      05SN      
+6812                                                              04SN      
+682             Perdas em entidades participadas                  03NN      
+683             Amortizações de investimentos em imóveis          03NN      
+6831            Terrenos e recursos naturais                      04SN      
+6832            Edifícios e outras construções                    04NN      
+68321           Edifícios                                         05SN      
+68322           Outras construções                                05SN      
+684             Provisões para aplicações financeiras             03NN      
+6841            Títulos negociáveis                               04SN      
+6842            Outras aplicações de tesouraria                   04SN      
+6843            Partes de capital                                 04SN      
+6844            Obrigações e títulos de participação              04SN      
+6845                                                              04SN      
+6848            Outras aplicações financeiras                     04SN      
+685             Diferenças de câmbio desfavoráveis                03NN      
+687             Perdas na alienação de aplicações de tesouraria   03NN      
+688             Outros custos e perdas financeiros                03NN      
+6881            Serviços bancários                                04SN      
+6888            Outros não especificados                          04SN      
+689                                                               03NN      
+69              CUSTOS E PERDAS EXTRAORDINÁRIOS                   02NN      
+691             Transferências de capital concedidas              03SN      
+692             Dívidas incobráveis                               03NN      
+693             Perdas em existências                             03NN      
+6931            Sinistros                                         04SN      
+6932            Quebras                                           04SN      
+6938            Outras                                            04SN      
+694             Perdas em imobilizações                           03NN      
+6941            Alienação de investimentos financeiros            04SN      
+6942            Alienação de imobilizações corpóreas              04SN      
+6943            Alienação de imobilizações incorpóreas            04SN      
+6944            Sinistros                                         04SN      
+6945            Abates                                            04SN      
+6948            Outras                                            04SN      
+695             Multas e penalidades                              03NN      
+6951            Multas fiscais                                    04SN      
+6952            Multas não fiscais                                04SN      
+6958            Outras penalidades                                04SN      
+696             Aumentos de amortizações e de provisões           03NN      
+6961            Amortizações                                      04SN      
+6962            Provisões                                         04SN      
+697             Correcções relativas a exercícios anteriores      03NN      
+6971            Restituições                                      04SN      
+698             Outros custos e perdas extraordinários            03NN      
+6982            Diferenças de câmbio extraordinárias              04SN      
+6988            Outros não especificados                          04SN      
+699                                                               03SN      
+7               PROVEITOS E GANHOS                                01NN      
+71              VENDAS E PRESTAÇÕES DE SERVIÇOS                   02NN      
+711             Vendas                                            03NN      
+7111            Mercadorias                                       04NN      
+71111           Habitação social                                  05SN      
+7112            Produtos acabados e intermédios                   04NN      
+71121           Água                                              05SN      
+71122           Electricidade                                     05SN      
+71123           Habitação social                                  05SN      
+7113            Subprodutos, desperdícios, resíduos e refugos     04SN      
+7115            IVA das vendas com imposto incluído               04NN      
+7117            Devolução de vendas                               04NN      
+7118            Descontos e abatimentos em vendas                 04NN      
+712             Prestações de serviços                            03NN      
+7121            Venda de bens e prestações de serviços correntes  04NN      
+71211           Venda de bens duradouros                          05NN      
+712111          Venda de bens duradouros                          06SN      
+71212           Venda de bens não duradouros                      05NN      
+712123          Outros                                            06SN      
+71213           Prestações de serviços                            05NN      
+712131          Saneamento                                        06NN      
+7121311         Ligação                                           07SN      
+7121312         Conservação                                       07SN      
+712132          Residuos sólidos                                  06SN      
+712133          Transportes colectivos de pessoas e mercadorias   06SN      
+712134          Trabalhos por conta de particulares               06SN      
+712135          Cemitérios                                        06SN      
+712136          Mercados e feiras                                 06SN      
+712137          Instalações desportivas, culturais e recreativas  06SN      
+712138          Parques de estacionamento                         06SN      
+712139          Outros                                            06SN      
+71214           Rendas e alugueres                                05NN      
+712141          Habitação e outros edificios                      06SN      
+712142          Outros                                            06SN      
+72              IMPOSTOS E TAXAS                                  02NN      
+721             Impostos directos                                 03NN      
+7211            Contribuição Autárquica                           04SN      
+7212            Imposto municipal sobre veículos                  04SN      
+7213            Imposto municipal de sisa                         04SN      
+7214            Derrama                                           04SN      
+7215            Impostos abolidos                                 04SN      
+722             Impostos indirectos                               03NN      
+7221            Imposto sobre o valor acrescentado                04NN      
+72211           Participação rceitas IVA s/actividades turisticas 05SN      
+7222            Outros                                            04NN      
+72221           Mercados e feiras                                 05SN      
+72222           Loteamentos e obras                               05SN      
+72223           Ocupação da via pública                           05SN      
+72225           Publicidade                                       05SN      
+72226           Outros                                            05SN      
+724             Taxas                                             03NN      
+7241            Taxas                                             04NN      
+72411           Mercados e feiras                                 05SN      
+72412           Loteamentos e obras                               05SN      
+72413           Ocupação da via pública                           05SN      
+72415           Caça, uso e porte de arma                         05SN      
+72416           Outras                                            05SN      
+7242            Multas e outras penalidades                       04NN      
+72421           Multas                                            05SN      
+72422           Juros de mora                                     05SN      
+72423           Taxas de relaxe e outras                          05SN      
+725             Reembolsos e restituições                         03NN      
+726             Anulações                                         03NN      
+728             Outros                                            03NN      
+73              PROVEITOS SUPLEMENTARES                           02NN      
+731             Serviços sociais                                  03SN      
+732             Aluguer de equipamento                            03SN      
+733                                                               03SN      
+734             Estudos, projectos e assistência tecnológica      03SN      
+735             "Royalties"                                       03SN      
+738             Não especificados inerentes ao valor acrescentado 03SN      
+739             Outros                                            03SN      
+74              TRANSFERÊNCIAS E SUBSÍDIOS OBTIDOS                02NN      
+742             Transferências obtidas                            03NN      
+7421            Administrações Públicas                           04NN      
+74211           Orçamento do Estado                               05NN      
+742111          Transferências Correntes                          06NN      
+7421111         Fundo Geral Municipal                             07SN      
+7421112         Fundo Coesão Municipal                            07SN      
+7421113         Fundo de Financiamento Freguesias                 07SN      
+7421114         Exterior                                          07SNN     
+742112          Transferências de Capital                         06NN      
+7421121         Fundo Geral Municipal                             07SN      
+7421122         Fundo Coesão Municipal                            07SN      
+7421123         Cooperação Técnica e Financeira                   07SN      
+74212           Fundos e Serviços Autónomos                       05SN      
+74213           Administração Autárquica                          05SN      
+7422            Administrações Privadas                           04NN      
+74221           Instituições Particulares                         05SN      
+7423            Famílias                                          04SN      
+7424            Exterior                                          04NN      
+74241           FEDER                                             05SN      
+7425            Empresas                                          04NN      
+74251           Empresas públicas municipais e intermunicipais    05SN      
+74252           Outras                                            05SN      
+743             Subsídios correntes obtidos                       03NN      
+749                                                               03NN      
+75              TRABALHOS PARA A PRÓPRIA ENTIDADE                 02NN      
+751             Investimentos financeiros                         03NN      
+752             Imobilizações corpóreas                           03NN      
+753             Imobilizações incorpóreas                         03NN      
+754             Imobilizações em curso                            03NN      
+755             Bens de domínio público                           03NN      
+756             Custos diferidos                                  03NN      
+759                                                               03NN      
+76              OUTROS PROVEITOS E GANHOS OPERACIONAIS            02NN      
+761             Direitos de propriedade industrial                03SN      
+768             Outros não especif. alheios ao valor acrescentado 03SN      
+7687            Outras receitas correntes                         04SN      
+769                                                               03NN      
+78              PROVEITOS E GANHOS FINANCEIROS                    02NN      
+781             Juros obtidos                                     03NN      
+7811            Rendimento de propriedade                         04NN      
+78111           Juros                                             05NN      
+781111          Depósitos                                         06SN      
+781112          Obrigações e títulos de participação              06SN      
+781113          Empréstimos                                       06SN      
+781114          Outros                                            06SN      
+78112           Dividendos e outras participações em lucros       05NN      
+781123          Serviços municipalizados                          06SN      
+781124          Empresas municipais e intermunicipais             06SN      
+781126          Outros                                            06SN      
+78113           Renda de terrenos                                 05NN      
+781131          Renda de terrenos                                 06SN      
+78114           Outros                                            05NN      
+781141          Outros                                            06SN      
+782             Ganhos em entidades participadas                  03NN      
+783             Rendimentos de imóveis                            03NN      
+7831            Terrenos e recursos naturais                      04SN      
+7832            Edifícios e outras construções                    04NN      
+78321           Edifícios                                         05SN      
+78322           Outras construções                                05SN      
+784             Rendimentos de participações de capital           03NN      
+7841            Empresas municipais e intermunicipais             04SN      
+785             Diferenças de câmbio favoráveis                   03NN      
+786             Descontos de pronto pagamento obtidos             03NN      
+787             Ganhos na alienação de aplicações de tesouraria   03NN      
+7871            Activos financeiros                               04NN      
+78711           Títulos a curto prazo                             05SN      
+78712           Títulos a médio e longo prazos                    05SN      
+78713           Títulos de participação                           05SN      
+78714           Emprestimos a curto prazo                         05SN      
+78715           Emprestimos a médio e longo prazos                05NN      
+787151          Instituições de crédito                           06SN      
+787152          IGAPHE                                            06SN      
+787153          Fundo de turismo                                  06SN      
+78716           Outros                                            05NN      
+787161          Outros                                            06SN      
+7872            Passivos financeiros                              04NN      
+78721           Títulos a curto prazo                             05SN      
+78722           Títulos a médio e longo prazos                    05SN      
+78723           Empréstimos a curto prazo                         05SN      
+78724           Empréstimos a médio e longo prazos                05NN      
+787241          Obrigações                                        06SN      
+787242          Outros                                            06SN      
+788             Outros proveitos e ganhos financeiros             03NN      
+7881            Outros                                            04SN      
+789                                                               03NN      
+79              PROVEITOS E GANHOS EXTRAORDINÁRIOS                02NN      
+791             Restituição de impostos                           03NN      
+792             Recuperação de dívidas                            03NN      
+793             Ganhos em existências                             03NN      
+7931            Sinistros                                         04SN      
+7932            Sobras                                            04SN      
+7938            Outros                                            04SN      
+794             Ganhos em imobilizações                           03NN      
+7941            Alienação de investimentos financeiros            04SN      
+7942            Alienação de imobilizações corpóreas              04NN      
+79421           Venda de bens de investimento                     05NN      
+794211          Terrenos e recursos naturais                      06NN      
+7942111         Terrenos e recursos naturais                      07SN      
+794212          Edificios e outras construções                    06NN      
+7942121         Edificios e outras construções                    07SN      
+794213          Equipamento de transporte                         06NN      
+7942131         Equipamento de transporte                         07SN      
+794214          Maquinaria e equipamento                          06NN      
+7942141         Maquinaria e equipamento                          07SN      
+7943            Alienação de imobilizações incorpóreas            04SN      
+7944            Sinistros                                         04SN      
+7948            Outros                                            04NN      
+79481           Outros                                            05SN      
+795             Benefícios de penalidades contratuais             03NN      
+7951            Multas                                            04SN      
+7952            Juros de mora                                     04SN      
+7953            Taxas de relaxe                                   04SN      
+796             Reduções de amortizações e provisões              03NN      
+7961            Amortizações                                      04SN      
+7962            Provisões                                         04SN      
+797             Correcções relativas a exercícios anteriores      03NN      
+7971            Reposições não abatidas nos pagamentos            04NN      
+79711           Reposições não abatidas nos pagamentos            05SN      
+798             Outros proveitos e ganhos extraordinários         03NN      
+7981            Outras receitas de capital                        04NN      
+79811           Activos incorpóreos                               05SN      
+79812           Mais valias resultantes da colocação obrigações   05SN      
+79813           Diversos                                          05SN      
+7982            Diferenças de câmbio extraordinárias              04SN      
+7983            Transferências de capital                         04SN      
+7988            Outros não especificados                          04SN      
+799                                                               03NN      
+8               RESULTADOS                                        01NN      
+81              RESULTADOS OPERACIONAIS                           02SN      
+82              RESULTADOS FINANCEIROS                            02SN      
+83              (RESULTADOS CORRENTES)                            02SN      
+84              RESULTADOS EXTRAORDINÁRIOS                        02SN      
+88              RESULTADO LÍQUIDO DO EXERCÍCIO                    02SN      
+                                                                                                                                                                                                                                                                                                                                                                                                                                           

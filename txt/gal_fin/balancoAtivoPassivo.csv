@@ -1,0 +1,141 @@
+;ATIVO;
+;;
+;IMOBILIZADO :;
+;;
+;BENS DE DOMÍNIO PÚBLICO :;
+451;Terrenos e recursos naturais;1
+452;Edifícios;1
+453;Outras contruções e infra-estruturas;1
+455;Bens do património histórico e cultural;1
+459;Outros bens de domínio público;1
+445;Imobilizações em curso;1
+446;Adiantamentos por conta bens domínio público;1
+;Sub-total;
+;IMOBILIZAÇÕES INCORPÓREAS :;
+431;Despesas de instalação;1
+432;Despesas investigação e desenvolvimento;1
+433;Propriedade indústrial e outros direitos;1
+443;Imobilizações em curso;1
+449;Adiantamentos por conta imobilizações incorpóreas;1
+;Sub-total;
+;IMOBILIZAÇÕES CORPÓREAS :;
+421;Terrenos e recursos naturais;1
+422;Edifícios e outras contruções ;1
+423;Equipamento básico;1
+424;Equipamento de trasnporte;1
+425;Ferramentas e utensílios;1
+426;Equipamento administrativo;1
+427;Taras e vasilhame;1
+429;Outras imobilizações corpóreas;1
+442;Imobilizações em curso;1
+448;Adiantamentos por conta imobilizações corpóreas;1
+;Sub-total;
+;INVESTIMENTOS FINANCEIROS :;
+411;Partes capital;
+412;Obrigações e titulos de participação ;1
+414;Investimentos em imóveis;1
+415;Outras aplicações financeiras;1
+441;Imobilizações em curso;1
+447;Adiantamentos por conta investimentos financeiros;1
+;Sub-total;
+;CIRCULANTE :;
+;;
+;EXISTÊNCIAS :;
+36;Matérias-Primas, subsidiárias e de consumo;1
+35;Produtos e trabalhos em curso ;1
+34;Subprodutos, desperdícios, resíduos e refugos;1
+33;Produtos acabados e intermédios;1
+32;Mercadorias;1
+37;Adiantamentos por conta de compras;1
+;Sub-total;
+;;
+;Dívidas de terceiros - Médio longo prazo;
+;;
+;DIVIDAS DE TERCEIROS - CURTO PRAZO :;
+28;Emprésimos concedidos;1
+211;Clientes, c/c;1
+212;Contribuintes, c/c;1
+213;Utentes, c/c;1
+218;Clientes, contribuintes e utentes cobrança duvidosa;1
+251;Devedores pela execução do orçamento;1
+229;Adiantamentos a fornecedores ;1
+2619;Adiantamentos a fornecedores imobilizado;1
+24;Estado e outros entes públicos;4
+264;Administração autárquica;4
+262+263+267+268;Outros devedores ;4
+;Sub-total;
+;TÍTULOS NEGOCIÁVEIS : ;
+151;Ações;1
+152;Obrigações e títulos de participação;1
+153;Títulos de dívida pública ;1
+159;Outros títulos;1
+18;Outas aplicações de tesouraria ;1
+;Sub-total;
+;DEPÓSITOS EM INSTITUIÇÕES FINANCEIRAS E CAIXA :;
+12;Depósitos em instituições financeiras;1
+11;Caixa;1
+;Sub-total;
+;ACRÉSCIMO E DIFERIMENTOS :;
+271;Acréscimo de proveitos;1
+272;Custos diferidos;1
+;Sub-total;
+;;
+;Total de Amortizações;
+;Total de Provisões;
+;Total do Ativo;
+;;
+;FUNDOS PRÓPRIOS E PASSIVO;
+;;
+;FUNDOS PRÓPRIOS :;
+;;
+51;Património;1
+55;Ajustamento de partes de capital em empresas;1
+56;Reservas de reavaliação;1
+;;
+;RESERVAS :;
+;;
+571;Reservas legais;1
+572;Reservas estatutarias;1
+573;Reservas contratuais;1
+574;Reservas livres;1
+575;Subsídios;1
+576;Doações;1
+577;Reservas decorrentes transferência de ativos;1
+;;
+59;Resultados transitados;1
+88;Resultado líquido do exercício;1
+;;
+;Sub-total;
+;;
+;PASSIVO :;
+;;
+292;Provisões para riscos e encargos;1
+;;
+;Dívidas a terceiros - Médio e longo prazo ;
+;;
+;Sub-total;
+;;
+;DÍVIDAS A TERCEIROS - CURTO PRAZO :;
+;;
+2311;Empréstimos de curto prazo;1
+269;Adiantamentos por conta de vendas;1
+221;Fornecedores, c/c;5
+228;Fornecedores - Faturas em receção e conferência;1
+252;Credores pela execução do orçamento;1
+217;Clientes e utentes c/ caução;1
+219;Adiantamentos de clientes, contribuintes, utentes ;1
+2611;Fornecedores de imobilizado, c/c;1
+24;Estado e outros entes públicos;5
+264;Administração autárquica ;5
+262+263+267+268;Outros credores;5
+;;
+;Sub-total;
+;;
+;ACRÉSCIMOS E DIFERIMENTOS :;
+;;
+273;Acréscimos de custos;1
+274;Proveitos diferidos;1
+;;
+;Sub-total;
+;;
+;Total dos fundos próprios e do passivo;

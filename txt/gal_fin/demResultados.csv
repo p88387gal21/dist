@@ -1,0 +1,56 @@
+;CUSTOS E PERDAS;
+;;
+;Custos das mercadorias vendidas e das matérias consumidas :;
+;;
+612/312;Mercadorias;
+616/316;Matérias;
+;;
+62;Fornecimentos e serviços externos;
+;;
+;Custos com o pessoal :;
+;;
+641+642;Remuneração;
+643 a 649;Encargos sociais;
+;;
+63;Transferências e subsídios correntes concedidos e prestações sociais;Sub-Total
+66;Amortizações do exercício;
+67;Provisões do exercício;Sub-Total
+;;
+65;Outros custos e perdas operacionais;Sub-Total
+;( A );Total
+;;
+68;Custos e perdas financeiros;Sub-Total
+;( C );Total
+;;
+69;Custos e perdas extraordinários;Sub-Total
+;( E );Total
+;;
+88;Resultado liquido do exercício;Sub-Total
+;;
+;;Total
+;;
+;PROVEITOS E GANHOS;
+;;
+;Vendas e prestações de serviços;
+7111;Vendas de mercadorias;
+7112+7113+7114;Vendas de produtos;
+712;Prestações de serviços;Sub-Total
+;;
+72;Impostos de taxas;
+;Variação da produção;
+75;Trabalhos para a própria entidade;
+73;Proveitos suplementares;
+74;Transferências e subsídios obtidos;
+76;Outros proveitos e ganhos operacionais;Sub-Total
+;( B );Total
+;;
+78;Proveitos e ganhos financeiros;Sub-Total
+;( D );Total
+;;
+79;Proveitos e ganhos extraordinários;Sub-Total
+;( F );Total
+;;
+;RESULTADOS OPERACIONAIS: ( B ) - ( A );
+;RESULTADOS FINANCEIROS: ( D - B ) - ( C - A );
+;RESULTADOS CORRENTES: ( D ) - ( C );
+;RESULTADO LÍQUIDO DO EXERCÍCIO: ( F ) - ( E );

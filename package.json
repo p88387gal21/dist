@@ -1,0 +1,16 @@
+{
+  "name": "galupdate",
+  "version": "1.0.0",
+  "description": "GAL Update",
+  "main": "index.js",
+  "auto-updater":{
+    "repo":"p88387gal21/dist",
+    "branch":"master"
+},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "GAL",
+  "license": "ISC"
+}

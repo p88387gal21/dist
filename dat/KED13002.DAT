@@ -1,0 +1,175 @@
+01              Despesas Com Pessoal                              02N
+0101            Remunerações certas e permanentes                 04N
+010101          Rem. membros orgãos autárquicos                   06S
+010104          Pessoal dos quadros-Regime contrato ind. trabalho 06N
+01010401        Pessoal em funçoes                                08S
+01010402        Alteraçoes obrigatorias posicionamento remunerador08S
+01010403        Alteraçoes facultativas posicionamento remunerador08S
+010106          Pessoal contratado a termo                        06N
+01010601        Pessoal em funçoes                                08S
+01010602        Alteraçoes obrigatorias posicionamento remunerador08S
+01010603        Alteraçoes facultativas posicionamento remunerador08S
+01010604        Recrutamento pessoal p/novos postos de trabalho   08S
+010107          Pessoal regime tarefa ou avença                   06S
+010108          Pessoal aguardando aposentação                    06S
+010109          Pessoal em qualquer outra situação                06S
+010110          Gratificações                                     06N
+01011003        Outros                                            08S
+010111          Representação                                     06S
+010112          Suplementos e prémios                             06S
+010113          Subsidio de refeição                              06N
+01011301        Pessoal quadros-regime contrato ind. trabalho     08S
+01011302        Pessoal contratado a termo                        08S
+01011303        Pessoal em qualquer outra situaçao                08S
+010114          Subsidio de férias e de Natal                     06N
+01011401        Pessoal dos quadros-Regime contrato ind. trabalho 08S
+01011402        Pessoal contratado a termo                        08S
+01011403        Pessoal em qualquer outra situação                08S
+010115          Rem. doença e maternidade/ paternidade            06S
+0102            Abonos variáveis ou eventuais                     04N
+010202          Horas extraordinárias                             06S
+010203          Alimentação e alojamento                          06S
+010204          Ajudas de custo                                   06S
+010205          Abono para falhas                                 06S
+010207          Colaboração técnica especializada                 06S
+010210          Subsidio de trabalho nocturno                     06S
+010211          Subsidio de turno                                 06S
+010212          Indemnizaçoes por cessaçao de funçoes             06S
+010213          Outros suplementos e prémios (senhas presença)    06S
+010214          Outros abonos em numerário ou espécie             06S
+0103            Segurança social                                  04N
+010301          Encargos com a saúde                              06S
+010302          Outros encargos com a saude                       06S
+010303          Subsidio familiar a crianças e jovens             06S
+010304          Outras prestações familiares                      06S
+010305          Contribuições p/ a segurança social               06N
+01030501        Assistencia na doença funcionarios publicos-ADSE  08S
+01030502        Segurança social pessoal em regime CTFP           08N
+0103050201      Caixa Geral de Aposentaçoes                       10S
+0103050202      Segurança social -  regime geral                  10S
+01030503        Outros                                            08S
+010306          Acidentes em serviço e doença profissional        06S
+010309          Seguros                                           06N
+01030901        Seguros de acidentes no trabalho                  08S
+01030902        Seguros de saúde                                  08S
+010310          Outras despesas de segurança social               06N
+01031001        Eventualidade maternidade, paternidade e adopçao  08S
+01031099        Outras despesas de segurança social               08S
+02              Aquisição de Bens e Serviços                      02N
+0201            Aquisição de bens                                 04N
+020101          Matérias-primas e subsidiárias                    06S
+020102          Combustíveis e lubrificantes                      06N
+02010201        gasolina                                          08S
+02010202        gasóleo                                           08S
+02010299        Outros                                            08S
+020103          Munições, explosivos e outros artif.              06S
+020104          Limpeza e higiene                                 06S
+020105          Alimentação - refeições confeccionadas            06S
+020106          Alimentação - géneros para confeccionar           06S
+020107          Vestuário e artigos pessoais                      06S
+020108          Material de escritório                            06S
+020110          Produtos vendidos nas farmácias                   06S
+020111          Material de consumo clínico                       06S
+020112          Material de transporte - peças                    06S
+020114          Outro material - peças                            06S
+020115          Prémios, condecorações e ofertas                  06S
+020117          Ferramentas e utensílios                          06S
+020118          Livros e doc. técnica                             06S
+020119          Artigos honoríficos e de decoração                06S
+020120          Material de educação, cult. recreio               06S
+020121          Outros bens                                       06S
+0202            Aquisição de serviços                             04N
+020201          Encargos das instalações                          06S
+020202          Limpeza e higiene                                 06S
+020203          Conservação de bens                               06S
+020204          Locação de edifícios                              06S
+020205          Locação de mat. informática                       06S
+020206          Locação mat. de transporte                        06S
+020208          Locação de outros bens                            06S
+020209          Comunicações                                      06S
+020210          Transportes                                       06S
+020211          Representação dos serviços                        06S
+020212          Seguros                                           06S
+020213          Deslocações e estadas                             06S
+020214          Estudos, pareceres, proj. e consultoria           06S
+020215          Formação                                          06N
+020216          Seminários, exposições, e similares               06N
+020217          Publicidade                                       06S
+020218          Vigilancia e segurança                            06S
+020219          Assistência técnica                               06S
+020220          Outros trabalhos especializados                   06S
+020222          Serviços de saude                                 06S
+020224          Encargos de cobranças de receitas                 06S
+020225          Outros serviços                                   06S
+03              Juros e Outros Encargos                           02N
+0301            Juros da divida pública                           04N
+030103          Bancos e outras instituições                      06S
+030108          Administração pública-Administ. local-Continente  06N
+03010801        empréstimos curto prazo                           08S
+03010802        empréstimos medio e longo prazo                   08S
+0302            Outros encargos correntes da divida pública       04N
+0303            Juros de locação financeira                       04N
+0305            Outros juros                                      04N
+030502          Outros                                            06S
+04              Transferências Correntes                          02N
+0401            Sociedades e quase nao sociedades financeiras     04N
+040102          Privadas                                          06S
+0405            Administração local                               04N
+0407            Instituições sem fins lucrativos                  04N
+040701          Instituições sem fins lucrativos                  06S
+0408            Famílias                                          04N
+040802          Outras                                            06S
+05              Subsidios                                         02N
+0501            Sociedades e quase-sociedades não financeiras     04N
+050101          Públicas                                          06N
+050103          Privadas                                          06S
+0508            Familias                                          04N
+050803          Outras - (Contrato Emprego inserçao)              06S
+06              Outras despesas correntes                         02N
+0602            Diversas                                          04N
+060201          Impostos e taxas                                  06S
+060203          Outras                                            06N
+06020301        Outras restituições                               08S
+06020302        IVA pago                                          08S
+06020304        Serviços bancários                                08S
+06020305        Outras                                            08S
+07              Aquisição de Bens de Capital                      02N
+0701            Investimentos                                     04N
+070101          Terrenos                                          06S
+070103          Edificios                                         06N
+07010301        Instalações de serviços                           08S
+07010302        Instalações desportivas e recreativas             08S
+07010303        Mercados e instalações de fisc. sanitária         08S
+07010304        Creches                                           08S
+07010305        Escolas                                           08S
+07010307        Outros                                            08S
+070104          Construções diversas                              06N
+07010401        Viadutos, arruamentos e obras complementares      08S
+07010405        Parques e jardins                                 08S
+07010406        Instalações desportivas e recreativas             08S
+07010408        Viaçao rural                                      08S
+07010409        Sinalização e trânsito                            08S
+07010412        Cemiterios                                        08S
+07010413        Outras construçoes diversas                       08S
+070106          Material de transporte                            06S
+070107          Equipamento de informática                        06S
+070108          Software informático                              06S
+070109          Equipamento administrativo                        06S
+070110          Equipamento básico                                06S
+070111          Ferramentas e utensílios                          06S
+070115          Outros investimentos                              06S
+10              Passivos Financeiros                              02N
+1005            Empréstimos a curto prazo                         04N
+100508          Administração pública-Administ. local-Continente  06N
+10050801        Empréstimos a curto prazo                         08S
+1006            Empréstimos a médio e longo prazos                04N
+100608          Administração pública-Administ. local-Continente  06N
+10060801        empréstimos medio e longo prazo                   08S
+11              Outras despesas de capital                        02N
+1102            Diversas                                          04N
+110201          Restituiçoes                                      06S
+110299          Outras                                            06S
+17              Operações extra-orçamentais                       02N
+1701            Operações de tesouraria-receitas do Estado        04S
+1702            Outras operações de tesouraria                    04S
+                                                                                                            
