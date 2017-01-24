@@ -1,4 +1,9 @@
 var AutoUpdater = require('auto-updater');
+var GalExe = new ActiveXObject("WScript.Shell");
+
+function runGAL() {
+  GalExe.Run("file:///C:/gal/gal.exe")
+}
 
     var autoupdater = new AutoUpdater({
      pathToJson: '',
@@ -48,6 +53,7 @@ var AutoUpdater = require('auto-updater');
     });
     autoupdater.on('end', function() {
       console.log("A aplicação está pronta.");
+      runGAL();
     });
     autoupdater.on('erro', function(name, e) {
       console.error(name, e);
@@ -55,3 +61,4 @@ var AutoUpdater = require('auto-updater');
 
     // Start checking
     autoupdater.fire('check');
+
